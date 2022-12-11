@@ -1,0 +1,18 @@
+.navbar {
+  background-color: rgb(247, 136, 136);
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100vh;
+  font-size: large;
+  padding: 20;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
