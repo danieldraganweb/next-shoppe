@@ -1,7 +1,7 @@
 .navbar {
   background-color: rgb(247, 136, 136);
   overflow: hidden;
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
   width: 100%;
   font-size: large;
